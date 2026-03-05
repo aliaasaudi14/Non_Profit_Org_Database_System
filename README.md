@@ -74,9 +74,9 @@ The system is built on a **highly normalized relational model** to prevent redun
 
 ---
 
-## 👩‍💻 Author
-Developed by **Aliaa**  
-Location: Qesm Qena, Qina, Egypt  
-Date: March 2026  
-
+## 👩‍💻 Authors
+Developed by:   
+- **Mohamed Mansour**  
+- **George Samir**
+- **Aliaa Ahmed** 
 ---
