@@ -3,7 +3,7 @@
 use Non_Profit_Org
 
 ------------------------------------            ------------------------------------
-                          --CREATION OF MAIN RELATION (ENITIES)
+                           --CREATION OF MAIN RELATION (ENITIES)
 ------------------------------------            ------------------------------------
 
 create table Employees
